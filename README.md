@@ -29,12 +29,3 @@ To understand fundamental concepts and principles of Physics (mechanics and elec
 The teaching methods and techniques applied during the sessions will include: expository lessons, problem-solving, simulations, and practical laboratory work conducted in groups.
 - **Continuous assessment:** Three tests (75%) and practical work (25%).
 - **Final assessment:** Exam (100%) or Exam (75%) and practical work (25%). Practical work must be completed on the proposed dates during the course.
-
-## Important Notes
-- This repository will contain all relevant materials and exercises related to the course.
-- Future updates will include additional resources and notes as needed.
-
----
-
-## Contributions
-Feel free to contribute to this repository by adding your own notes, exercises, or relevant resources related to the course.
